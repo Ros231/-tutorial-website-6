@@ -18,6 +18,7 @@ let x = 10
 x = x +  5 * 9 - 2 //ย่อได้เป็น x += 5 * 9 - 2
  
 // && ใช้ตรวจสอบค่า null, undefined, false, 0, NaN, ''
+// && call "nullish coalescing operator"
 let a = null
 let b = 20
 let c = ''
